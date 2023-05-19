@@ -30,6 +30,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
       - name: Create Pull Request
-        run: gh pr create -B main -H design --title 'Design Token Updated'
+        run: gh pr create -B main -H design --title 'Design Token Updated' --body 'Pull request body'
         env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
