@@ -614,5 +614,10 @@
     "value": "110%",
     "type": "lineHeights",
     "description": "dqwdwqdwq"
+  },
+  "coloradd": {
+    "value": "#68d391",
+    "type": "color",
+    "description": "add new color"
   }
 }

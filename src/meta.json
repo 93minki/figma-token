@@ -780,6 +780,11 @@
     "type": "lineHeights",
     "description": "dqwdwqdwq"
   },
+  "coloradd": {
+    "value": "#68d391",
+    "type": "color",
+    "description": "add new color"
+  },
   "tokenSetOrder": {
     "0": {
       "value": "core",
