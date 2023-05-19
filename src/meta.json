@@ -770,6 +770,16 @@
     "type": "fontFamilies",
     "description": "dsfsdfsd"
   },
+  "dfadsda": {
+    "value": "Inter",
+    "type": "fontFamilies",
+    "description": "sdfsdfsd"
+  },
+  "asdsadas": {
+    "value": "110%",
+    "type": "lineHeights",
+    "description": "dqwdwqdwq"
+  },
   "tokenSetOrder": {
     "0": {
       "value": "core",
